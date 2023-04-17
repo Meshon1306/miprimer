@@ -1,1 +1,3 @@
-# miprimer
+# miprimer 
+econ y 
+ciencia de datos
